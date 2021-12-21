@@ -11,6 +11,6 @@ int usd, inr;
 
 inr = usd * 75.44;
 
-    printf("\nINR= %d ₹\n",inr);
+    printf("\nINR= %d ₹\n", inr);
 
 }

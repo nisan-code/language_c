@@ -2,5 +2,7 @@
 
 void main()
 {
-  printf("Name: Rockson kathar \nAddress: Paltan Bazaar, Guwahati, Asssam");
+
+    printf("Name: Rockson kathar \nAddress: Paltan Bazaar, Guwahati, Asssam");
+
 }

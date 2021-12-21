@@ -3,7 +3,7 @@
 
 void main()
 {
-  
+
 int a, b, c, x, total;
 
 

@@ -20,4 +20,5 @@ sinterest = (principal * rate * time )/ 100.0;
 total = sinterest + principal;
 
     printf("\nTotal= %d\n",total);
+    
 }
